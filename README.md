@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+✨I'm Pia. I have always had a passion for design and over the years also for digitalization and development. So to combine the things I like most is what encourage me to study Frontend development. Learning to master different code to make inspiring websites is a thrill.✨ 
+
+### Get in touch  👯
+
+[LinkedIn](https://www.linkedin.com/in/pia-sundsby-4a14992/)
+
+[Gmail](mailto:piasundsby@gmail.com)
+
 <!--
 **piasun/piasun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
